@@ -1,5 +1,5 @@
 TOP 10 most frequent words in input_words.txt
-N 1 - 99 times - string01 
+N 1 - 100 times - string01 
 N 2 - 98 times - string02 
 N 3 - 97 times - string03
 N 4 - 96 times - string04
